@@ -8,7 +8,7 @@
 
 ## ✨ Preview
 
-![alt text](<Captura de Tela (11).png>)
+![mario-jump](/img/Captura%20de%20Tela%20(11).png)
 
 ## 🚀 Tecnologias
 - HTML5
