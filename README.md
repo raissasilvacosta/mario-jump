@@ -6,6 +6,10 @@
 
 ### Um mini game inspirado no universo do Mario desenvolvido com HTML, CSS e JavaScript. O objetivo é simples: desviar dos canos e sobreviver o máximo possível 🚀
 
+## ✨ Preview
+
+![alt text](<Captura de Tela (11).png>)
+
 ## 🚀 Tecnologias
 - HTML5
 - CSS3
