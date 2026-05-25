@@ -1,0 +1,10 @@
+# Editor de código (VS Code)
+.vscode/
+
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs de erro
+*.log
